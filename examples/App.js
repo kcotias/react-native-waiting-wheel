@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-import ProgressWheel from 'react-native-progress-wheel';
+import ProgressWheel from 'react-native-waiting-wheel';
 
 const App = () => {
   return (
