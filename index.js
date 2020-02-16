@@ -1,3 +1,3 @@
-import ProgressBar from "./src/ProgressBar";
+import ProgressWheel from "./src/ProgressWheel";
 
-export default ProgressBar;
+export default ProgressWheel;

@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-// import ProgressBar from 'react-native-progress-wheel';
-import ProgressWheel from './Progress';
+import ProgressWheel from 'react-native-progress-wheel';
 
 const App = () => {
   return (

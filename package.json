@@ -1,22 +1,21 @@
 {
-  "name": "react-native-animated-progress",
+  "name": "react-native-progress-wheel",
   "version": "1.0.0",
-  "description": "Need an animated and customizable ProgressBar? Here it ts!",
+  "description": "A progress wheel to count time out or any application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kcotias/react-native-animated-progress-bar.git"
+    "url": "git+https://github.com/victorcosta/react-native-progress-wheel.git"
   },
   "keywords": [
     "react",
     "react-native",
     "native",
     "progress",
-    "slider",
-    "bar",
+    "wheel",
     "progressBar",
     "loading",
     "animated",
@@ -25,12 +24,12 @@
     "mobile",
     "component"
   ],
-  "author": "Kaian Cotias",
-  "license": "ISC",
+  "author": "Victor Costa",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kcotias/react-native-animated-progress-bar/issues"
+    "url": "https://github.com/victorcosta/react-native-progress-wheel/issues"
   },
-  "homepage": "https://github.com/kcotias/react-native-animated-progress-bar#readme",
+  "homepage": "https://github.com/victorcosta/react-native-progress-wheel#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.58.0"
   }
