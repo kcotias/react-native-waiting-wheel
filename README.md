@@ -1,4 +1,4 @@
-# React Native Animated Progress
+# React Native Waiting Wheel
 
 If you need make you user wait som time we cam help you
 
@@ -19,13 +19,13 @@ A progress wheel to whating for some thing in your application
 Open a Terminal in the project root and run:
 
 ```sh
-npm install react-native-progress-wheel
+npm install react-native-waiting-wheel
 ```
 
 OR
 
 ```sh
-yarn add react-native-progress-wheel
+yarn add react-native-waiting-wheel
 ```
 
 ## Quick Start
@@ -33,7 +33,7 @@ yarn add react-native-progress-wheel
 ```js
 import React from "react";
 import { View, Text } from "react-native";
-import ProgressWheel from "react-native-progress-wheel";
+import ProgressWheel from "react-native-waiting-wheel";
 
 const App = () => {
   return (
