@@ -1,15 +1,15 @@
 # React Native Waiting Wheel
 
-If you need make you user wait som time we cam help you
+If you have to make your user wait for some time, this will save you!
 
-A progress wheel to whating for some thing in your application
+A progress wheel that can work as a loading as well, make your user wait for something in your application in a better way!
 
 - Checkout the [example/](https://github.com/victorcosta/react-native-waiting-wheel/tree/master/examples) folder for use example.
 
 ## Features
 
 - Good fit for loading situations
-- Good fit for waiting timers like sms
+- Good fit for waiting timers like SMS confirmation, or timers.
 - Smooth animations
 - Highly customizable
 - Very lightweight
@@ -71,4 +71,4 @@ Sets the first color of wheel
 
 ##### `duration` - integer (`Default - 3000`)
 
-Sets the time of animation.
+Sets the time of the animation.
